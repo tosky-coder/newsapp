@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "508765870858",
+    "firebase_url": "https://tosky-project-default-rtdb.firebaseio.com",
+    "project_id": "tosky-project",
+    "storage_bucket": "tosky-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508765870858:android:bbee978a88fa800a36b8f3",
+        "android_client_info": {
+          "package_name": "com.example.assignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "508765870858-b3seuqjje6l22rq1e77eodqoj6nko87l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJ2K0MHHSoDcX3GviZK_GhQZQivfomnTY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "508765870858-b3seuqjje6l22rq1e77eodqoj6nko87l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508765870858:android:36129cedb3e0dd5736b8f3",
+        "android_client_info": {
+          "package_name": "com.example.myblog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "508765870858-b3seuqjje6l22rq1e77eodqoj6nko87l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJ2K0MHHSoDcX3GviZK_GhQZQivfomnTY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "508765870858-b3seuqjje6l22rq1e77eodqoj6nko87l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
